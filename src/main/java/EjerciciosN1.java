@@ -1,6 +1,6 @@
 //Ejercitacion N1 crear una funcion que nos devuelva la factorial de un numero entero.
 
-public class Ejercicios {
+public class EjerciciosN1 {
 
     public static void main(String []args){
         System.out.println(factorial(30));
