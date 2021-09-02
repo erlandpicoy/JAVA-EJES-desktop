@@ -1,7 +1,7 @@
 //Ejercitacion N1 crear una funcion que nos devuelva la factorial de un numero entero.
 
 
-public class EjercicioN2 {
+public class EjerciciosN2 {
 
     public static void main(String []args){
         System.out.println(esPrimo(11));
