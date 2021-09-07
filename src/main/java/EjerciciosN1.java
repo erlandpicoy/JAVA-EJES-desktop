@@ -18,7 +18,7 @@ public class EjerciciosN1 {
 
         for(int i=(numero-1);i>1;i--){
             resultado= resultado * i;
-        }
+    }
         return resultado;
     }
 }
